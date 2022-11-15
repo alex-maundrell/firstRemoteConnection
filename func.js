@@ -1,5 +1,5 @@
 function double(num) {
- return * 3; 
+    return * 2;
 }
 
 var x = 2;
